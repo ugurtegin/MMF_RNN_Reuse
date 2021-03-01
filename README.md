@@ -8,7 +8,7 @@ BPM Notebooks folder contains the numerical decision layer used in the manuscrip
 
 Simulation data will be available upon peer reviewed publication.
 
-This study is arising from the work of Salmela et al. (Predicting ultrafast nonlinear dynamics in fibre optics with a recurrent neural network. Nat Mach Intell (2021). https://doi.org/10.1038/s42256-021-00297-z) to further investigate the possibilities on modeling nonlinear dynamics in an optical fibre with a recurrent neural network.
+This study is arising from the work of Salmela et al. "Predicting ultrafast nonlinear dynamics in fibre optics with a recurrent neural network." Nat Mach Intell (2021) to further investigate the possibilities on modeling nonlinear dynamics in an optical fibre with a recurrent neural network.
 
 ## Related Work
 **Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.**
