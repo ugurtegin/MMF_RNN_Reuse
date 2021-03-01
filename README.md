@@ -25,7 +25,7 @@ Tensorflow 2.4.0
 Python 3
 
 ## Contact
-Please contact [Uğur Teğin](http://ugurtegin.github.io) for questions.
+Please contact [Uğur Teğin](http://ugurtegin.github.io) or Niyazi Ulaş Dinç for questions.
 
 ## License
 This project is covered under the Creative Common (CC BY NC) License. The data and code are avaiable for non-commercial research purposes only with proper citation to aforementioned manuscript.
