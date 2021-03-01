@@ -2,13 +2,13 @@
 
 This repository contains code used for the manuscript title as Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network by Tegin and Dinc et al. (2020).
 
-Simulations folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
+BPM Notebooks folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
 
-Exp_LinReg folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API. Experimentally recorded data is required to run the decision layer code.
+BPM Notebooks folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API. Experimentally recorded data is required to run the decision layer code.
 
-Experimentally recorded data will be available upon peer reviewed publication.
+Simulation data will be available upon peer reviewed publication.
 
-In the experiments, SLM control is performed with the Matlab Code provided by Rosales-Guzmán, C., & Forbes, A. (2017). How to shape light with spatial light modulators. SPIE Press and the camera control is obtained via Thorlabs SDK and Doc. for Scientific Cameras example code. 
+This study is arising from the work of Salmela et al. (Predicting ultrafast nonlinear dynamics in fibre optics with a recurrent neural network. Nat Mach Intell (2021). https://doi.org/10.1038/s42256-021-00297-z) to further investigate the possibilities on modeling nonlinear dynamics in an optical fibre with a recurrent neural network.
 
 ## Related Work
 **Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.**
