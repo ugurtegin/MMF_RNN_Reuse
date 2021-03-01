@@ -4,7 +4,7 @@ This repository contains code used for the manuscript title as *Reusability repo
 
 BPM Notebooks folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
 
-BPM Notebooks folder contains the numerical decision layer used in the manuscript. Regression and categorization tasks for the studied datasets in the manuscript are performed with these codes written in Python with Tensorflow library and Keras API. Experimentally recorded data is required to run the decision layer code.
+RNN Notebooks folder contains the training and testing procedures of the recurrent neural network used in the manuscript. The training and testing tasks are performed with these codes written in Python with Tensorflow library and Keras API.
 
 Simulation data will be available upon peer reviewed publication.
 
