@@ -12,7 +12,8 @@ In the experiments, SLM control is performed with the Matlab Code provided by Ro
 
 ## Related Work
 
-Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.
+#Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.
+
 Uğur Teğin, Niyazi Ulaş Dinç, Christophe Moser, and Demetri Psaltis, 2020. 
 
 ## System Requirements
