@@ -11,7 +11,7 @@ Experimentally recorded data will be available upon peer reviewed publication.
 In the experiments, SLM control is performed with the Matlab Code provided by Rosales-Guzmán, C., & Forbes, A. (2017). How to shape light with spatial light modulators. SPIE Press and the camera control is obtained via Thorlabs SDK and Doc. for Scientific Cameras example code. 
 
 ## Related Work
-**Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.
+**Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.**
 
 Uğur Teğin, Niyazi Ulaş Dinç, Christophe Moser, and Demetri Psaltis, 2020. 
 
