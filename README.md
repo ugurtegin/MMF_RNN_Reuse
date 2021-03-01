@@ -1,6 +1,6 @@
 # Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network
 
-This repository contains code used for the manuscript title as Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network by Tegin and Dinc et al. (2020).
+This repository contains code used for the manuscript title as *Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network by Tegin and Dinc et al. (2020).*
 
 BPM Notebooks folder contains a time-dependent beam propagation simulation for graded-index multimode fiber. The code is written in Python with the CuPy library to perform GPU parallelized simulations. 
 
@@ -8,7 +8,7 @@ BPM Notebooks folder contains the numerical decision layer used in the manuscrip
 
 Simulation data will be available upon peer reviewed publication.
 
-This study is arising from the work of Salmela et al. "Predicting ultrafast nonlinear dynamics in fibre optics with a recurrent neural network." Nat Mach Intell (2021) to further investigate the possibilities on modeling nonlinear dynamics in an optical fibre with a recurrent neural network.
+This study is arising from the work of *Salmela et al. "Predicting ultrafast nonlinear dynamics in fibre optics with a recurrent neural network." Nat Mach Intell (2021)* to further investigate the possibilities on modeling nonlinear dynamics in an optical fibre with a recurrent neural network.
 
 ## Related Work
 **Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.**
