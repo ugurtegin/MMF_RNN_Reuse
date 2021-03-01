@@ -13,7 +13,7 @@ This study is arising from the work of *Predicting ultrafast nonlinear dynamics 
 ## Related Work
 **Reusability report: Predicting spatiotemporal nonlinear dynamics in multimode fibre optics with a recurrent neural network.**
 
-Uğur Teğin, Niyazi Ulaş Dinç, Christophe Moser, and Demetri Psaltis, 2020. 
+Uğur Teğin, Niyazi Ulaş Dinç, Christophe Moser, and Demetri Psaltis, 2021. 
 
 ## System Requirements
 Google Colab services
