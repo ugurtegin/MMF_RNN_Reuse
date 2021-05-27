@@ -15,6 +15,8 @@ This study is arising from the work of *Predicting ultrafast nonlinear dynamics 
 
 Uğur Teğin, Niyazi Ulaş Dinç, Christophe Moser, and Demetri Psaltis, 2021. 
 
+https://doi.org/10.1038/s42256-021-00347-6
+
 ## System Requirements
 Google Colab services
 
@@ -25,7 +27,7 @@ Tensorflow 2.4.0
 Python 3
 
 ## Contact
-Please contact [Uğur Teğin](http://ugurtegin.github.io) or Niyazi Ulaş Dinç for questions.
+Please contact [Uğur Teğin](http://ugurtegin.com) or Niyazi Ulaş Dinç for questions.
 
 ## License
 This project is covered under the Creative Common (CC BY NC) License. The data and code are avaiable for non-commercial research purposes only with proper citation to aforementioned manuscript.
