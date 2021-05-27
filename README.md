@@ -6,8 +6,6 @@ BPM Notebooks folder contains a time-dependent beam propagation simulation for g
 
 RNN Notebooks folder contains the training and testing procedures of the recurrent neural network used in the manuscript. The training and testing tasks are performed with these codes written in Python with Tensorflow library and Keras API.
 
-Simulation data will be available upon peer reviewed publication.
-
 This study is arising from the work of *Predicting ultrafast nonlinear dynamics in fibre optics with a recurrent neural network.* Salmela et al. Nat Mach Intell (2021) to further investigate the possibilities on modeling nonlinear dynamics in an optical fibre with a recurrent neural network.
 
 ## Related Work
